@@ -1,46 +1,44 @@
-# Assistente de Rotina Inteligente 🚀
+# Assistente de Rotina Inteligente
 
-Projeto desenvolvido por **Ermani Hermoges** utilizando PowerShell com foco em automação, produtividade e monitoramento do ambiente de trabalho.
-
----
-
-## 🎯 Objetivo
-
-Criar um assistente pessoal capaz de realizar auditorias do sistema e entregar informações úteis através de popups inteligentes.
+Projeto desenvolvido por Ermani Hermoges utilizando PowerShell com foco em automacao, produtividade e monitoramento do ambiente de trabalho.
 
 ---
 
-## ⚙️ Funcionalidades
+## Objetivo
 
-✅ Verificação de bateria  
-✅ Status da internet  
-✅ Espaço em disco  
-✅ Tempo ligado do notebook  
-✅ Mensagens motivacionais  
-✅ Inglês do dia  
-✅ Versículo bíblico  
-✅ Modo demonstração para portfólio  
+Criar um assistente pessoal capaz de realizar auditorias do sistema e entregar informacoes uteis atraves de popups inteligentes.
 
 ---
 
-## 📂 Estrutura do projeto
+## Funcionalidades
 
-```txt
+- Verificacao de bateria
+- Status da internet
+- Espaco em disco
+- Tempo ligado do notebook
+- Mensagens motivacionais
+- Ingles do dia
+- Versiculo biblico
+- Modo demonstracao para portfolio
+
+---
+
+## Estrutura do projeto
+
 codigo/
 prints/
 testes/
 README.md
-```
 
 ---
 
-## 📸 Demonstração
+## Demonstracao
 
-Prints reais disponíveis na pasta `prints`.
+Prints reais disponiveis na pasta prints.
 
 ---
 
-## 👨‍💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - PowerShell
 - Git
@@ -49,14 +47,14 @@ Prints reais disponíveis na pasta `prints`.
 
 ---
 
-## 📽️ Vídeo de demonstração
+## Video de demonstracao
 
-(https://www.youtube.com/shorts/5PVYozt8Lv0)
+https://www.youtube.com/shorts/5PVYozt8Lv0
 
 ---
 
 ## Autor
 
-**Ermani Hermoges**
+Ermani Hermoges
 
-> Code. Faith. Discipline.
+Code. Faith. Discipline.
